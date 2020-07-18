@@ -2,6 +2,7 @@
 ## ***Automate tasks and Ensure Information Quality instead of spending our time doing what a machine.***
 
 This [***project started in 2019***](https://github.com/Maureque/gvsig-gsoc2019-topology/wiki), carried out within the Google Summer of Code program with [OSGeo (Open Source Geospatial Foundation)](https://www.osgeo.org/) and the [gvSIG Association](http://www.gvsig.com/en/home), this is an example of how scripting can help to automate tasks and save time, allowing the user to focus on the logic to solve.
+
 If the repetitive tasks do not need special perception, creative intelligence or social intelligence then are feasible tasks of automation and not appropriate to creative beings with a critical reflexive attitude.
 
 
