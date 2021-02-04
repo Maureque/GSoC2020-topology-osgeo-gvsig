@@ -12,6 +12,9 @@ For example: overlays, positional accuracy, mismatched geometries and inconsiste
 Topology rules ensure that data sets comply with the conditions specified in each rule. Achieving this is an essential process to ensure the integrity and quality of spatial data.
 
 ## **Project 2020:**
+
+[**Video that summarizes the work done.**](https://www.youtube.com/watch?v=qsLTj3vPGZQ&t=162s)
+
 **Link to wiki page: https://github.com/Maureque/GSoC2020-topology-osgeo-gvsig/wiki**
 
 **OSgeo wiki page: https://wiki.osgeo.org/wiki/New_rules_for_the_Topology_Framework_in_gvSIG_Desktop_(_GSoC_2020_)**
